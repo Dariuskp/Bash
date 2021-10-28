@@ -1,2 +1,2 @@
 # Bash
-Here you will find all of my Bash scripts automating resources in AWS.
+Here you will find all of my Shell scripts automating resources in AWS.
